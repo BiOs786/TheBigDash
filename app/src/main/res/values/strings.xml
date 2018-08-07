@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheBigDash</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="movie_release_date">Release Date</string>
+
+    <string name="popular_string">Popular</string>
+    <string name="top_rated_string">Top Rated</string>
+    <string name="favorite_string">Favorite</string>
+    <string name="error_string">No Internet Connection</string>
+    <string name="trailer_text">Watch Trailers</string>
+
+    <string name="authority">bios786.counter.com.thebigdash</string>
+    <string name="review_text">Reviews</string>
+</resources>
